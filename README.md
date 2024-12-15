@@ -9,7 +9,8 @@ Data Cleaning and Preprocessing: Preparing raw data for analysis.
 Exploratory Data Analysis (EDA): Gaining insights and identifying patterns in the data.
 Python: Scripting for data manipulation and visualization.
 SQL: Managing and querying data efficiently.
-Power BI/Tableau: Visualizing data for actionable insights.
+Power BI: Visualizing data for actionable insights.
+
 
 Domain
 Retail Analytics in the Electronics Industry: Understanding customer behavior and sales trends in the global electronics market.
